@@ -1,0 +1,2 @@
+If we use the runtime parts that requires licensing, e.g local editing, and we dont want to use named Arcgis Online users, then we buy licenses in bundles of e.g. 50. But if we distribute the app on AppStore, mulitple users Can download the app. We provide loginin the App, to ensure that it will only be uset by our Own customers. 
+How will Esri register / count the nummer of users, and there by the required number of licenses?
